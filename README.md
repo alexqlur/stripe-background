@@ -4,5 +4,4 @@
 
 This is react app.
 
-All the things are going in ```src/components/StripeBackground``` component.
-
+All the things are going in `src/components/StripeBackground` component.
