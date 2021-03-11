@@ -1,5 +1,8 @@
 # Extraction stripes from background of "Stripe.com"
 
+![Background Image](https://github.com/alexqlur/stripe-background/blob/main/public/screenshot.png)
 
+This is react app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+All the things are going in StripeBackground component.
+
