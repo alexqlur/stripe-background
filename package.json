@@ -1,5 +1,5 @@
 {
-  "name": "Stripe Background",
+  "name": "stripe-background",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
