@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import initialBG from './components/initialBG';
+import "./App.css";
+import { StripeBackground } from "./components/StripeBackground";
 
 function App() {
-  return (<>
-    <h1>zalupa</h1>
-    <initialBG />
+  return (
+    <>
+      <StripeBackground />
     </>
   );
 }
